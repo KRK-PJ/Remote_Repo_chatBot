@@ -1,0 +1,1 @@
+Aplikacja chatbota w serwisie Auto-X.pl. Projekt obejmuje utworzenie chatbota odpowiadającego na pytania w serwisie aut elektrycznych, dotyczące parametrów tych aut takich jak zasięg, moc, przyspieszenie, w oparciu o dane z tabeli z bazy MySQL. 
